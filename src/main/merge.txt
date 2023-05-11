@@ -1,1 +1,4 @@
-this is a comment of other branch -
+this is a comment of other branch
+
+this file will be used to lear merge conflicts
+
